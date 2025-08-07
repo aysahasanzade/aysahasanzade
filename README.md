@@ -1,6 +1,7 @@
 <div align="center">
   
-<img width="2280" height="1220" alt="YouTube Banner - Medical Research   Coding Hub" src="https://github.com/user-attachments/assets/0fbce8b7-bed7-4260-a8a8-ff00f4173d48" />
+<img width="2100" height="1120" alt="YouTube Banner - Medical Research   Coding Hub (1)" src="https://github.com/user-attachments/assets/26428ba1-ac92-4299-8e13-1e96fdf7cf45" />
+
 
 
 
@@ -18,7 +19,11 @@
   <img src="https://img.shields.io/badge/🗣️_Polyglot-6_Languages_(Native_to_N3)-yellowgreen?style=for-the-badge&logo=duolingo&logoColor=white" alt="Languages">
   <br>
 
-  
+
+  <h2>"こんにちは" in 6 languages & "Hello World" in 4 more!
+  </h2>
+
+
   <!-- Tech Stack Icons -->
   <code><img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JS"></code>
