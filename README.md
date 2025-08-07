@@ -55,7 +55,7 @@
   <a href="https://github.com/aysahasanzade">
     <img src="https://img.icons8.com/color-glass/48/000000/github.png" width="35" alt="GitHub">
   </a>
-  <a href="mailto:ayahasanzade@gmail.com">
+  <a href="https://aysahasanzade@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="35" alt="Email">
   </a>
 
