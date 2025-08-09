@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="2100" height="1120" alt="YouTube Banner - Medical Research   Coding Hub (1)" src="https://github.com/user-attachments/assets/26428ba1-ac92-4299-8e13-1e96fdf7cf45" />
+<img width="1500" height="900" alt="YouTube Banner - Medical Research   Coding Hub (1)" src="https://github.com/user-attachments/assets/26428ba1-ac92-4299-8e13-1e96fdf7cf45" />
 
 
 
